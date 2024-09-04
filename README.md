@@ -1,6 +1,5 @@
 # ask-multiple-documents-openai
 A streamlit Application to ask from Multiple Documents
-The application is live at this [link](https://ask-multiple-documents-openai-2g5kthbmlesuilazvrmtaz.streamlit.app/)
 
 This application uses the OpenAI GPT-3 to create the embeddings and then use those Embeddings to ask from the documents.
 On this application, you can upload multiple documents and then click "Process" to create the embeddings of the documents and then you can ask the questions.
